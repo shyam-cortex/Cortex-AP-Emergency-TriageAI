@@ -1,0 +1,7 @@
+{
+  "name": "Cortex-AP: Emergency TriageAI",
+  "description": "Voice-first Emergency Department triage assistant using ESI algorithms and Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
